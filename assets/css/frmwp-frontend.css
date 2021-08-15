@@ -1,0 +1,9 @@
+table.frm-wp-ajax-table th,
+table.frm-wp-ajax-table td {
+  border: 1px solid black;
+}
+
+table.frm-wp-ajax-table th {
+  padding: 15px 10px;
+  background: #dfdfdf;
+}
